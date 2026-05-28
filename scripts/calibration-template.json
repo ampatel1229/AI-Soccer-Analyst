@@ -1,0 +1,20 @@
+{
+  "run_name": "week5-internal-pass",
+  "results": [
+    {
+      "label": "GK Highlights",
+      "url": "https://youtu.be/SVP384_U1S4?si=WfF-1zUzXWt7dtXa",
+      "expected_positions": ["GK"],
+      "predicted_positions": [],
+      "position_score": "unknown",
+      "hallucinated_strength_count": 0,
+      "timestamp_relevance_percent": 0,
+      "notes": ""
+    }
+  ],
+  "summary": {
+    "position_accuracy_percent": 0,
+    "avg_hallucinated_strengths": 0,
+    "avg_timestamp_relevance_percent": 0
+  }
+}

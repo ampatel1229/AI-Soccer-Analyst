@@ -1,0 +1,80 @@
+[
+  {
+    "label": "General 01",
+    "url": "https://youtu.be/MKLLhW9krmM?si=Ox6aZFa6s8QW_yLr",
+    "expected_positions": [],
+    "notes": "Unlabeled misc highlight"
+  },
+  {
+    "label": "General 02",
+    "url": "https://youtu.be/qdq6x2DdtL8?si=Xwm8YY1yiYSpGvpl",
+    "expected_positions": [],
+    "notes": "Unlabeled misc highlight"
+  },
+  {
+    "label": "GK Highlights",
+    "url": "https://youtu.be/SVP384_U1S4?si=WfF-1zUzXWt7dtXa",
+    "expected_positions": ["GK"],
+    "notes": "Ground truth seed"
+  },
+  {
+    "label": "LB Highlights",
+    "url": "https://youtu.be/-qGZ0klV8r0?si=buNsL8jcG-s0ySwI",
+    "expected_positions": ["FB/WB"],
+    "notes": "Ground truth seed"
+  },
+  {
+    "label": "CB Highlights",
+    "url": "https://youtu.be/eHSTj0hBMNY?si=6lv07XmDywn9673r",
+    "expected_positions": ["CB"],
+    "notes": "Ground truth seed"
+  },
+  {
+    "label": "CDM Highlights",
+    "url": "https://youtu.be/vgUOyIArHU0?si=xscgLQZvX2bWEtIa",
+    "expected_positions": ["CDM"],
+    "notes": "Ground truth seed"
+  },
+  {
+    "label": "CM/CAM Highlights 01",
+    "url": "https://youtu.be/j7xu9Ayqwfg?si=oauS9uWfyBu6NVlk",
+    "expected_positions": ["CM", "CAM"],
+    "notes": "Ground truth seed"
+  },
+  {
+    "label": "CM/CAM Highlights 02",
+    "url": "https://youtu.be/v3mvXDMhx6o?si=c-9B9jnX-PKdRobn",
+    "expected_positions": ["CM", "CAM"],
+    "notes": "Ground truth seed"
+  },
+  {
+    "label": "LW/RW Highlights",
+    "url": "https://youtu.be/UVp7MpVB9u8?si=wYom5X5gJkXXQy65",
+    "expected_positions": ["WM"],
+    "notes": "Ground truth seed"
+  },
+  {
+    "label": "ST Highlights",
+    "url": "https://youtu.be/_itHeD1ig1M?si=Ae3gdfTtWmzIBdAD",
+    "expected_positions": ["CF"],
+    "notes": "Ground truth seed"
+  },
+  {
+    "label": "Misc 01",
+    "url": "https://youtu.be/GIs4oTQPkPI?si=vFgaV3LbiEDjb4Mi",
+    "expected_positions": [],
+    "notes": "Unlabeled misc highlight"
+  },
+  {
+    "label": "Misc 02",
+    "url": "https://youtu.be/rsMJJCnJ3Rc?si=TZs-4uSKDi7H_Fw7",
+    "expected_positions": [],
+    "notes": "Unlabeled misc highlight"
+  },
+  {
+    "label": "Misc 03",
+    "url": "https://youtu.be/wMAq8sbMoFs?si=zVpGN30Ze8FizYVu",
+    "expected_positions": [],
+    "notes": "Unlabeled misc highlight"
+  }
+]
